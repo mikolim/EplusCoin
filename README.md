@@ -55,4 +55,11 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
-# EplusCoin
+# Specifications of EplusCoin
+
+Name: Epluscoin
+Symbol: EPLUS
+Decimals: 8
+Platform: Ethereum (ERC20 Token)
+Total Supply: 168,000,000 KNDC
+Contract Address: 0x02e3083a51e8632e571fbd6a62ac396c10c653ba
